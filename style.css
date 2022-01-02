@@ -1,0 +1,23 @@
+.heading{
+    width: 100%;
+}
+
+body{
+    background-size: cover;
+}
+
+h4{
+    position: fixed;
+    width: 100%;
+    background-color: snow;
+    line-height: 2;
+    box-shadow: 5px 5px 10px silver;
+    bottom: 0;
+}
+
+#canvas{
+    background-color: snow;
+    box-shadow: 5px 5px 10px silver;
+    width: fit-content;
+    height: fit-content;
+}
